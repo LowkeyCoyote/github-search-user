@@ -13,7 +13,8 @@ export default {
       'grayish-blue': '#4B6A9B',
       'dark-blue': '#2B3442',
       'very-light-grey': '#F6F8FF',
-      white: '#FFFFFF',
+      'white': '#FFFFFF',
+      'light-blue' : '#60ABFF'
     },
 
     fontSize: {
